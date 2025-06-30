@@ -1,4 +1,4 @@
 # apna-collegeDemo
 Learning about git first repository
 <br>
-Author SNEHIL
+Author SNEHIL(Vit Chennai)
